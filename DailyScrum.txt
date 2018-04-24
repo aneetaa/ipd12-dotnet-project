@@ -1,0 +1,196 @@
+Date : March 27, 2018 
+Anita and Qian
+
+1. What is done:
+ Create Tools: Trello, Scrum, GitHub repository
+ Learn: How to use Unity 3D Platform
+ Finding assets: Textures, Materials
+ Creating game object: ex. cube
+
+2. What to do for future:
+Finishing game Map 
+
+3. Challenges:
+Unity with CSharp
+
+===========================================
+
+Date :March 28,2018
+Anita and Qian
+
+1.What is done
+collada of Mario
+
+2. What to do for future:
+Finishing game Map 
+
+3. Challenges:
+Unity with CSharp
+UTiled to make map
+
+===========================================
+
+Date :March 29,2018
+Anita and Qian
+
+1.What is done
+Practice create Object in Unity 
+create C # script 
+
+2. What to do for future:
+Finishing game Map 
+
+
+3. Challenges:
+Unity with CSharp
+UTiled to make map
+
+===========================================
+
+Date :March 1,2018
+Anita and Qian
+
+1.What is done
+Learned Tiled map editor for 2D and 3D game
+Learned Utiled and importing Tiled maps into Unity
+Learned sketchup
+Created 2D map in Tiled
+
+2. What to do for future:
+How to convert 2D tiled map into 3D in Unity
+Finishing game Map
+
+3. Challenges:
+Creating 3D map in Tiled 
+Move camera with Mario
+Mario movements
+
+===========================================
+
+Date :March 02,2018
+Anita and Qian
+
+1.What is done
+Created map in sketchup
+Done 2 maps for 2 levels
+Done camera motions 
+Done some Mario motions: moves, climbes
+
+2. What to do for future:
+Making levels for the game
+Mario jump motion
+
+3. Challenges:
+How to jump 
+How to make lavels
+
+===========================================
+
+Date :March 03,2018
+Anita and Qian
+
+1.What is done
+Done make levels for the game
+Done Mario jump
+
+2. What to do for future:
+Make audio for the game: music, sound
+creat scripts for some objects in the game for playing rules
+
+3. Challenges:
+
+===========================================
+By mistake the scrum file has been removed from the server. 
+The gap here has been recorded on the removed scrum. We tried to write it again.
+===========================================
+
+Date :March 04,2018
+Anita and Qian
+
+1.What is done
+fix the Physics error
+
+
+2. What to do for future:
+Make audio for the game: music, sound
+creat scripts for some objects in the game for playing rules
+
+3. Challenges:
+
+===========================================
+
+Date :March 05,2018
+Anita and Qian
+
+1.What is done
+fix:jump bouncing issue
+fix : physics issue
+change the character controller(system use it as keyword) to character motor 
+
+
+2. What to do for future:
+Make audio for the game: music, sound
+creat scripts for some objects in the game for playing rules
+
+3. Challenges:
+
+===========================================
+
+Date :March 07,2018
+Anita and Qian
+
+1.What is done
+Worked on the layers of the map for player to jump on them
+Fixed Mario jump issues
+Fixed Camera issues
+
+2. What to do for future:
+Make audio for the game: music, sound
+creat scripts for some objects in the game for playing rules
+
+3. Challenges:
+
+===========================================
+
+Date :March 08,2018
+Anita and Qian
+
+1.What is done
+Audio for coins, finish game, theme game
+Level change
+Map collider for World-01
+Menu
+
+2. What to do for future:
+Fix issues for the map, coin score, level change, level 2
+
+3. Challenges:
+===========================================
+
+Date :March 09,2018
+Anita and Qian
+
+1.What is done
+Fixed all issues 
+
+2. What to do for future:
+Using Entity Framework for database 
+
+3. Challenges:
+database
+
+===========================================
+
+Date :March 10,2018
+Anita and Qian
+
+1.What is done
+Done camera issue: zooming
+Done exit game issue
+
+2. What to do for future:
+Fix issues for the map, coin score, 
+
+3. Challenges:
+database
+AI in game
