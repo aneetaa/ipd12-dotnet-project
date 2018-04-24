@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 639b45cd5ba6a3c438de046ad7754d99
+timeCreated: 1522940592
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: mario
+    100002: //RootNode
+    100004: mario_All_Root
+    100006: mario_ArmL1
+    100008: mario_ArmL1_dummy
+    100010: mario_ArmL2
+    100012: mario_ArmL2_dummy
+    100014: mario_ArmR1
+    100016: mario_ArmR1_dummy
+    100018: mario_ArmR2
+    100020: mario_ArmR2_dummy
+    100022: mario_Cap0
+    100024: mario_CapPosition
+    100026: mario_Center
+    100028: mario_Center_dummy
+    100030: mario_Eye0
+    100032: mario_EyePosition
+    100034: mario_Face0
+    100036: mario_FacePosition
+    100038: mario_FootL
+    100040: mario_FootL_dummy
+    100042: mario_FootR
+    100044: mario_FootR_dummy
+    100046: mario_HandL
+    100048: mario_HandL0
+    100050: mario_HandL_dummy
+    100052: mario_HandR
+    100054: mario_HandR0
+    100056: mario_HandR_dummy
+    100058: mario_Head
+    100060: mario_Head_dummy
+    100062: mario_Hip
+    100064: mario_JointRoot
+    100066: mario_LegL1
+    100068: mario_LegL1_dummy
+    100070: mario_LegL2
+    100072: mario_LegL2_dummy
+    100074: mario_LegR1
+    100076: mario_LegR1_dummy
+    100078: mario_LegR2
+    100080: mario_LegR2_dummy
+    100082: mario_PartsControl
+    100084: mario_PartsControl_dummy
+    100086: mario_ShoulderL
+    100088: mario_ShoulderR
+    100090: mario_Spine1
+    100092: mario_Spine1_dummy
+    100094: mario_Spine2
+    100096: mario_Spine2_dummy
+    100098: Point001
+    400000: mario
+    400002: //RootNode
+    400004: mario_All_Root
+    400006: mario_ArmL1
+    400008: mario_ArmL1_dummy
+    400010: mario_ArmL2
+    400012: mario_ArmL2_dummy
+    400014: mario_ArmR1
+    400016: mario_ArmR1_dummy
+    400018: mario_ArmR2
+    400020: mario_ArmR2_dummy
+    400022: mario_Cap0
+    400024: mario_CapPosition
+    400026: mario_Center
+    400028: mario_Center_dummy
+    400030: mario_Eye0
+    400032: mario_EyePosition
+    400034: mario_Face0
+    400036: mario_FacePosition
+    400038: mario_FootL
+    400040: mario_FootL_dummy
+    400042: mario_FootR
+    400044: mario_FootR_dummy
+    400046: mario_HandL
+    400048: mario_HandL0
+    400050: mario_HandL_dummy
+    400052: mario_HandR
+    400054: mario_HandR0
+    400056: mario_HandR_dummy
+    400058: mario_Head
+    400060: mario_Head_dummy
+    400062: mario_Hip
+    400064: mario_JointRoot
+    400066: mario_LegL1
+    400068: mario_LegL1_dummy
+    400070: mario_LegL2
+    400072: mario_LegL2_dummy
+    400074: mario_LegR1
+    400076: mario_LegR1_dummy
+    400078: mario_LegR2
+    400080: mario_LegR2_dummy
+    400082: mario_PartsControl
+    400084: mario_PartsControl_dummy
+    400086: mario_ShoulderL
+    400088: mario_ShoulderR
+    400090: mario_Spine1
+    400092: mario_Spine1_dummy
+    400094: mario_Spine2
+    400096: mario_Spine2_dummy
+    400098: Point001
+    4300000: mario
+    7400000: mario galaxy original
+    9500000: //RootNode
+    13700000: mario
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1_v
+    second: {fileID: 2100000, guid: 8a0000acf14110343b9d0fcd2cbfe9b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cap_v
+    second: {fileID: 2100000, guid: 22afe83b9a1bfb640a597ac750b1b395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeLid_v
+    second: {fileID: 2100000, guid: 01f724e70be74bf4c9aed86e408a9d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeballL_v
+    second: {fileID: 2100000, guid: c7ecfedd584833848962e039519b73c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeballR_v
+    second: {fileID: 2100000, guid: c7ecfedd584833848962e039519b73c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_v
+    second: {fileID: 2100000, guid: e5a3a641af45bfa4dbeff5c4cd409ddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_v
+    second: {fileID: 2100000, guid: 56f025add5bba224eba8117121ff3b15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_v
+    second: {fileID: 2100000, guid: 2df7e33d0a8f72f45b8d9a8ae55cdfb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_v(2)
+    second: {fileID: 2100000, guid: 2df7e33d0a8f72f45b8d9a8ae55cdfb9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
